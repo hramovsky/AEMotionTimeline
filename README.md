@@ -1,4 +1,4 @@
-# MotionTimelineAE
+# AE Motion Timeline
 
 Motion Timeline template.
 
