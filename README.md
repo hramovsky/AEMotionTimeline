@@ -6,8 +6,9 @@ AE Motion Timeline is an After Effects template for UI motion designers that can
 
 It's not an automated tool, so you will use your animation as a reference and set up necesssary tracks manually.
 
+# Tutorial
 
-Motion Timeline template.
+1. Place your animated composition reference to MotionTimeline comp. 
 
 <img src="/images/Scr-05.png" alt="Screen Animation Reference" title="Screen Animation Reference">
 
