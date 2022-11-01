@@ -1,6 +1,6 @@
 # AE Motion Timeline
 
-AE Motion Timeline is an After Effects template for UI motion designers to help to present their UI animations.
+AE Motion Timeline is an After Effects template for UI motion designers that can help to present UI animations.
 
 
 Motion Timeline template.
