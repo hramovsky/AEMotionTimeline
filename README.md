@@ -1,6 +1,11 @@
 # AE Motion Timeline
 
+#Quick Note
+
+
 Motion Timeline template.
+
+<img src="/images/Scr-05.png" alt="Screen Animation Reference" title="Screen Animation Reference">
 
 <img src="/images/Scr-01.png" alt="Selected Layer" title="Selected Layer">
 
@@ -11,7 +16,7 @@ Motion Timeline template.
 
 <img src="/images/Scr-04.png" alt="Link Time Remapping" title="Link Time Remapping">
 
-<img src="/images/Scr-05.png" alt="Screen Animation Reference" title="Screen Animation Reference">
+
 
 <img src="/images/Scr-06.png" alt="Settings" title="Settings">
 
