@@ -2,4 +2,4 @@
 
 Motion Timeline template.
 
-<img src="/images/scr-01.png" alt="Alt text" title="Optional title">
+<img src="/images/Scr-01.png" alt="Selected Layer" title="Selected Layer">
