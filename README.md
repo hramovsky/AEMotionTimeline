@@ -14,6 +14,11 @@ It's not an automated tool, so you will use your animation as a reference and se
 
 2. Add Time Remapping to the Reference and link it to the PositionSlider(ms) on Marker layer.
 
+<img src="/images/Scr-04.png" alt="Link Time Remapping" title="Link Time Remapping">
+
+
+
+
 <img src="/images/Scr-01.png" alt="Selected Layer" title="Selected Layer">
 
 <img src="/images/Scr-02.png" alt="Edit Curve Preview" title="Edit Curve Preview">
@@ -21,7 +26,7 @@ It's not an automated tool, so you will use your animation as a reference and se
 <img src="/images/Scr-03.png" alt="Link Text" title="Link Text">
 
 
-<img src="/images/Scr-04.png" alt="Link Time Remapping" title="Link Time Remapping">
+
 
 
 
