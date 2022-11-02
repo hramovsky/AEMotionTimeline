@@ -20,19 +20,19 @@ thisComp.layer("Marker").effect("curTime")(1) / 1000
 
 <img src="/images/Scr-04.png" alt="Link Time Remapping" title="Link Time Remapping">
 
-
-
+3. Set up your track according to your reference.
 
 <img src="/images/Scr-01.png" alt="Selected Layer" title="Selected Layer">
 
+4. Edit Curve preview. Set timeline marker to 2:00. Select curveAnimation slider in Edit Value Graph mode. You can also use plugin like Flow to set curve.
+
 <img src="/images/Scr-02.png" alt="Edit Curve Preview" title="Edit Curve Preview">
+
+5. You can duplicate tracks using ctrl+D and move it along Y axis. Also you can duplicate description text, after duplicating text set LinkLayer to related track.
 
 <img src="/images/Scr-03.png" alt="Link Text" title="Link Text">
 
-
-
-
-
+6. Settings
 
 <img src="/images/Scr-06.png" alt="Settings" title="Settings">
 
