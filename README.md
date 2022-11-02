@@ -4,7 +4,7 @@ AE Motion Timeline is an After Effects template for UI motion designers that can
 
 # Quick note
 
-It's not an automated tool, so you will use your animation as a reference and set up necessary tracks manually.
+It's automated tool, so you will use your animation as a reference and set up necessary tracks manually.
 
 # Tutorial
 
