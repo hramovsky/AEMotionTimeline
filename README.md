@@ -20,7 +20,7 @@ thisComp.layer("Marker").effect("curTime")(1) / 1000
 
 <img src="/images/Scr-04.png" alt="Link Time Remapping" title="Link Time Remapping">
 
-3. Set up your track according to your reference.
+3. Set up your tracks according to your reference.
 
 <img src="/images/Scr-01.png" alt="Selected Layer" title="Selected Layer">
 
