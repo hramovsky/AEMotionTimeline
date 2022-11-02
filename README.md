@@ -14,6 +14,10 @@ It's not an automated tool, so you will use your animation as a reference and se
 
 2. Add Time Remapping to the Reference and link it to the PositionSlider(ms) on Marker layer.
 
+```
+thisComp.layer("Marker").effect("curTime")(1) / 1000
+```
+
 <img src="/images/Scr-04.png" alt="Link Time Remapping" title="Link Time Remapping">
 
 
