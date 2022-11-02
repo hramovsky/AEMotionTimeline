@@ -22,7 +22,7 @@ thisComp.layer("Marker").effect("curTime")(1) / 1000
 
 3. Set up your tracks according to your reference.
 
-<img src="/images/Scr-01.png" alt="Selected Layer" title="Selected Layer">
+<img src="/images/Scr-01.png" alt="Selected Track" title="Selected Track">
 
 4. Edit Curve preview. Set timeline marker to 2:00. Select curveAnimation slider in Edit Value Graph mode. You can also use plugin like Flow to set curve.
 
