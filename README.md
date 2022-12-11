@@ -28,11 +28,17 @@ thisComp.layer("Marker").effect("curTime")(1) / 1000
 
 <img src="/images/Scr-02.png" alt="Edit Curve Preview" title="Edit Curve Preview">
 
-5. You can duplicate tracks using ctrl+D and move it along Y axis. Also you can duplicate description text, after duplicating text set LinkLayer to related track.
+5. Curve preview comp name. You can put values in the curve preview name to generate preview.
+
+<img src="/images/Curve-name.png" alt="Edit Curve Preview" title="Edit Curve Preview">
+
+<img src="/images/Scr-02.png" alt="Edit Curve Preview" title="Edit Curve Preview">
+
+6. You can duplicate tracks using ctrl+D and move it along Y axis. Also you can duplicate description text, after duplicating text set LinkLayer to related track.
 
 <img src="/images/Scr-03.png" alt="Link Text" title="Link Text">
 
-6. Settings
+7. Settings
 
 <img src="/images/Scr-06.png" alt="Settings" title="Settings">
 
