@@ -2,6 +2,9 @@
 
 AE Motion Timeline is an After Effects template that can help UI motion designers explain or present their UI animations.
 
+Update 1.2:
+- automatic generate curve preview by setting values in the curve preview composition name
+
 # Quick note
 
 It's not automated tool, so you will use your animation as a reference and set up tracks manually.
