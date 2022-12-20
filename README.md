@@ -23,7 +23,7 @@ thisComp.layer("Marker").effect("curTime")(1) / 1000
 
 3. Set parameters.
 
-<img src="/images/Set-parameters.png" alt="Edit Curve Preview" title=Set parameters">
+<img src="/images/Curve-name.png" alt="Edit Curve Preview" title="Edit Curve Preview">
 
 4. Curve preview image. You can put values in the curve preview name to generate preview.
 
