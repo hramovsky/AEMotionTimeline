@@ -21,23 +21,17 @@ thisComp.layer("Marker").effect("curTime")(1) / 1000
 
 <img src="/images/Scr-04.png" alt="Link Time Remapping" title="Link Time Remapping">
 
-3. Set up your tracks according to your reference.
-
-<img src="/images/Scr-01.png" alt="Selected Track" title="Selected Track">
-
-4. Set parameters.
+3. Set parameters.
 
 <img src="/images/Set-Parameters.png" alt="Edit Curve Preview" title=Set parameters">
 
-5. Curve preview image. You can put values in the curve preview name to generate preview.
+4. Curve preview image. You can put values in the curve preview name to generate preview.
 
 <img src="/images/Curve-name.png" alt="Edit Curve Preview" title="Edit Curve Preview">
 
-<img src="/images/Scr-02.png" alt="Edit Curve Preview" title="Edit Curve Preview">
+5. You can duplicate tracks using ctrl+D and move it along Y axis. You will need to duplicate both of the layers: the group of the text info and Curve preview. The Curve preview should be linked to related texts comp.
 
-6. You can duplicate tracks using ctrl+D and move it along Y axis. You will need to duplicate both of the layers: the group of the text info and Curve preview. The Curve preview should be linked to related texts comp.
-
-7. Settings
+6. Settings
 
 <img src="/images/Scr-06.png" alt="Settings" title="Settings">
 
