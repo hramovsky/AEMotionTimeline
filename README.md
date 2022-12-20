@@ -27,23 +27,15 @@ thisComp.layer("Marker").effect("curTime")(1) / 1000
 
 4. Set parameters.
 
+<img src="/images/Set-Parameters.png" alt="Edit Curve Preview" title=Set parameters">
 
-
-<img src="/images/Scr-02.png" alt="Edit Curve Preview" title="Edit Curve Preview">
-
-4. Edit Curve preview. Set timeline marker to 2:00. Select curveAnimation slider in Edit Value Graph mode. You can also use plugin like Flow to set curve.
-
-<img src="/images/Scr-02.png" alt="Edit Curve Preview" title="Edit Curve Preview">
-
-5. Curve preview comp name. You can put values in the curve preview name to generate preview.
+5. Curve preview image. You can put values in the curve preview name to generate preview.
 
 <img src="/images/Curve-name.png" alt="Edit Curve Preview" title="Edit Curve Preview">
 
 <img src="/images/Scr-02.png" alt="Edit Curve Preview" title="Edit Curve Preview">
 
-6. You can duplicate tracks using ctrl+D and move it along Y axis. Also you can duplicate description text, after duplicating text set LinkLayer to related track.
-
-<img src="/images/Scr-03.png" alt="Link Text" title="Link Text">
+6. You can duplicate tracks using ctrl+D and move it along Y axis. You will need to duplicate both of the layers: the group of the text info and Curve preview. The Curve preview should be linked to related texts comp.
 
 7. Settings
 
